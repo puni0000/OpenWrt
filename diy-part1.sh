@@ -14,5 +14,4 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-git clone https://github.com/godros/luci-app-godproxy.git package/luci-app-godproxy
 git clone https://github.com/lisaac/luci-app-diskman.git package/luci-app-diskman
