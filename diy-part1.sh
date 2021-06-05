@@ -14,4 +14,4 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-git clone https://github.com/lisaac/luci-app-diskman.git package/luci-app-diskman
+git clone https://github.com/xiaorouji/openwrt-passwall
